@@ -1,9 +1,9 @@
 import streamlit as st
 
-st.title('Title -> GeeksForGeeks')                      # Title
-st.header('Header -> GeeksForGeeks')                    # Header
-st.subheader('Subheader -> GeeksForGeeks')              # SubHeader
-st.text('Text -> GeeksForGeeks')                        # Text
+st.title('Title -> Hello Manohar Sattaru')                      # Title
+st.header('Header -> Manohar Sattaru')                    # Header
+st.subheader('Subheader ->Manohar Sattaru')              # SubHeader
+st.text('Text ->Manohar Sattaru')                        # Text
 
 st.markdown('# Hi')                                     # Markdown
 
